@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UTSMI2A_KardikoAnando</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
